@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 import java.util.*;
 
 public class Main {
-
+    //test
     private static final List<String> sortedLines = new ArrayList<>();
     private static String lastPhrase = null;
     private static int sortedCount = 0;
